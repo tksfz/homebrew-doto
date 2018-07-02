@@ -2,7 +2,7 @@ class Doto < Formula
   desc "Command-line work tracker"
   homepage "https://github.com/tksfz/doto2"
   url "https://github.com/tksfz/doto2/releases/download/v0.1-SNAPSHOT/doto"
-  sha256 "4ff27ac931609d39a0651f3995f35805c24b95b5f2c985dba8a90d939ed27851"
+  sha256 "8f871ae2b70e10a77f69488950e7fe083e85782e1e6a34fba534c8e652fb358e"
 
   bottle :unneeded
 
